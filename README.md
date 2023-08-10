@@ -1,2 +1,2 @@
 # Rudrakshi_Journey
-A web development frintend made for an interview
+A web development frontend made for an interview
